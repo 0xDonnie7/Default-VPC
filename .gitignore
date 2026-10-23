@@ -1,0 +1,6 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+# Variable files can contain secrets. Commit the example file instead.
+*.tfvars
+crash.log
